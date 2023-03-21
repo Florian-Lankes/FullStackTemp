@@ -1,1 +1,3 @@
-# FullStackTemp
+.env
+cookie_name=playlist
+cookie_password=secretpasswordnotrevealedtoanyone
